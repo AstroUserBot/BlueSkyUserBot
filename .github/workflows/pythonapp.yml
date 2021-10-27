@@ -1,4 +1,4 @@
-name: KensurCheck
+name: blueskycheck
 
 on: [push, pull_request]
 

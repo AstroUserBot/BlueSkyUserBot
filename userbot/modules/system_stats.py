@@ -126,7 +126,7 @@ async def pipcheck(pip):
 async def amireallyalive(alive):
     """For .alive command, check if the bot is running."""
     await alive.edit(
-        f"**KensurBot v{KENSURBOT_VERSION} is up and running!**\n\n"
+        f"**Bluesky v{KENSURBOT_VERSION} is up and running!**\n\n"
         f"**Telethon:** {version.__version__}\n"
         f"**Python:** {python_version()}\n"
         f"**User:** {DEFAULTUSER}"

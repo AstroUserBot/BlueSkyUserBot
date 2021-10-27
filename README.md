@@ -25,7 +25,7 @@ Blue sky is a modular Telegram userbot running on Python 3 with an SQLAlchemy da
 - [Setup Last.FM module](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)
 
 ## Deploy To Heroku
- [Deploy](https://heroku.com/deploy?template=https://github.com/KenHV/KensurBot/tree/master)
+ [Deploy](https://heroku.com/deploy?template=https://github.com/AstroUserBot/BlueSkyUserBot)
 
 ## Updates and support
 
